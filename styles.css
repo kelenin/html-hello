@@ -10,12 +10,19 @@ body{
 }
 .post{
     background: white;
-    margin-left: 165px;
-    margin-right: 165px;
-    margin-bottom: 70px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 60px;
     margin-top: 50px;    
 }
 
+
+.iconos
+{
+    padding: 10px;
+}
+
 p{
-    justify-content: center;
+    padding: 5px;
+    text-align: justify;
 }
