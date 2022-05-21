@@ -1,7 +1,21 @@
+body{
+    background: rgb(35, 35, 34);
+}
+.content{
+    background: black;
+    width: 47%;
+    height: 664px;
+    margin: auto;
+    display: flex;
+}
 .post{
-    box-sizing: content-box;  
-  width: 200px;
-  height: 100px;
-  padding: 30px;  
-  border: 10px solid green;
+    background: white;
+    margin-left: 165px;
+    margin-right: 165px;
+    margin-bottom: 70px;
+    margin-top: 50px;    
+}
+
+p{
+    justify-content: center;
 }
