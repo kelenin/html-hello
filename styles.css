@@ -1,0 +1,7 @@
+.post{
+    box-sizing: content-box;  
+  width: 200px;
+  height: 100px;
+  padding: 30px;  
+  border: 10px solid green;
+}
