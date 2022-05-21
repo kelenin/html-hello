@@ -16,11 +16,26 @@ body{
     margin-top: 40px;    
 }
 
-
-.post-header i
+.post-header {
+    display: flex;
+}
+.img-html
 {
     padding: 15px;
     font-size: 25px;
+}
+
+.letras-hmtl-5
+{
+    padding-top: 10px;
+    font-size: 15px;
+}
+
+.puntos-suspensivos
+{
+    padding-top: 10px;
+    font-size: 33px;
+    margin-left: 70%;
 }
 
 .post-footer
